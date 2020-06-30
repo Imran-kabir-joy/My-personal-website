@@ -44,3 +44,17 @@ section{
     height: 500px;
     
 }
+.gallary{
+    display: block;
+    float: left;
+    width: 30%;
+    padding: 2%;
+}
+
+.gallary img{
+    width: 100%;
+}
+
+.main-gallary{
+    margin-left: 90px;
+}
